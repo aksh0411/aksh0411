@@ -41,18 +41,6 @@ I enjoy building interactive web experiences, working with databases, and coding
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aksh0411&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksh0411&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🔥 GitHub Streak
