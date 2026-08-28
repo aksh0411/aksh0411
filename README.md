@@ -35,23 +35,21 @@ I enjoy building interactive web experiences, working with databases, and coding
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-### Tools
+## 🛠️ Tools
 
-![Git](...)
-![GitHub](...)
-![Linux](...)
-
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aksh0411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=aksh0411&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksh0411&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksh0411&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -67,15 +65,6 @@ I enjoy building interactive web experiences, working with databases, and coding
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aksh0411&theme=tokyonight&no-frame=true&margin-w=10" />
-
-</div>
-
----
 
 ## ✍️ Random Dev Quote
 
