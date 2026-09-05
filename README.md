@@ -43,7 +43,7 @@ I enjoy building interactive web experiences, working with databases, and coding
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak!!
 
 <div align="center">
 
